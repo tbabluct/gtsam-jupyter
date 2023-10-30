@@ -9,6 +9,7 @@ matplotlib = "*"
 pandas = "*"
 jupyterlab = "*"
 ipympl = "*"
+pymap3d = "*"
 
 [dev-packages]
 
